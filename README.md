@@ -1,8 +1,8 @@
 ### tcbazurefinalproject
 
 ## Deploying 100% managed Wiki using Terraform with Azure App Service (Docker based) and Azure PostgreSQL.
-
-Terraform role to create infraestructure
+![Solution architecture](solution-architecture.png "Solution architecture")
+Terraform role to create infrastructure
 
 #Motivation
 
